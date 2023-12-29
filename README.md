@@ -4,12 +4,8 @@
 [![Live site](readme_images/guide-site.png)](https://netzerocarbontoken.com/)
 
 ## Contact info
-- **Email:** dejanteofilovic2@gmail.com
-- **Discord:** [dejan_teofilovic](https://discord.gg/PztT2r5U)
-
-
-## Release date
-Mar 22, 2023
+- **Email:** superonecoderman@gmail.com
+- **Discord:** [Anaconda](superonecoderman)
 
 ## Environment
 - `Node.js v18.12.1`
